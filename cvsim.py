@@ -1,4 +1,5 @@
 # randles sevcik sim
+# note: although there is no kinetic delay implemented here, the peaks in the simulation behave quasi-reversible
 
 import numpy as np
 import matplotlib.pyplot as plt
